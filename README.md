@@ -8,7 +8,7 @@ nums = []
 tree = BinaryTree()  
 
 for i in numbers:  
-  tree.add_node(i)  
+> tree.add_node(i)  
   
 ## Print out a readable table to trace tree
 *shows structure of tree without drawing*  
