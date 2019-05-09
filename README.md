@@ -4,11 +4,11 @@ Binary Tree written in Python with search, pre-order traversal, in-order travers
 Currently works with numbers in an array only.
 
 ## Creating a tree
-    ``nums = []  
-    tree = BinaryTree()``  
+    nums = []  
+    tree = BinaryTree()  
 
-    ``for i in numbers:  
-        tree.add_node(i)``   
+    for i in numbers:  
+        tree.add_node(i)   
   
 ## Print out a readable table to trace tree
 shows structure of tree without drawing  
