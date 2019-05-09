@@ -1,5 +1,5 @@
 # BinaryTree
-Binary Tree written in Python with search, pre-order traversal, in-order traversal and post-order traversal.
+Binary Tree written in Python with search, pre-order traversal, in-order traversal and post-order traversal. Has class for BinaryTree and class for Node.
 
 Currently works with numbers in an array only.
 
