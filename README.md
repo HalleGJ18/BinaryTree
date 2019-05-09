@@ -15,6 +15,7 @@ shows structure of tree without drawing
     ``tree.print_tree()``  
 ### Output
 *value of node; left child node; right child node; parent node*  
+The left child, right child and parent nodes are represented by the index of those nodes in the tree.nodes array.  
 
 ## Search tree
 searches tree for value and says if present or not  
